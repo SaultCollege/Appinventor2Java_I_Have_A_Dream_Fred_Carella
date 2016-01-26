@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\AndroidStudioProjects\CSD309_F15\F15_AppInventor_I_Have_A_Dream_Fred_Carella\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-e6941ffc9cbf1270b1623cf686ba7082dcc4df08.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\developer.android.com\training\github\AppInventor2Java_I_Have_A_Dream_Fred_Carella\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\AndroidStudioProjects\developer.android.com\training\github\AppInventor2Java_I_Have_A_Dream_Fred_Carella\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-6ae94389f5bba80c38952338767452b8555fa0a3.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\developer.android.com\training\github\AppInventor2Java_I_Have_A_Dream_Fred_Carella\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\AndroidStudioProjects\developer.android.com\training\github\AppInventor2Java_I_Have_A_Dream_Fred_Carella\app\build\intermediates\pre-dexed\debug\classes-ac62995473882d35cc2a36e3cc252aa9db2ceb6e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\developer.android.com\training\github\AppInventor2Java_I_Have_A_Dream_Fred_Carella\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\AndroidStudioProjects\developer.android.com\training\github\AppInventor2Java_I_Have_A_Dream_Fred_Carella\app\build\intermediates\pre-dexed\debug\classes-e75fcfe8c2f5e7a2c25f05606fe7220cc0d309f7.jar" />
+    </item>
+
+</items>
